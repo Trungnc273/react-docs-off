@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkreact_bootstrap_website=globalThis.webpackChunkreact_bootstrap_website||[]).push([[7472],{55513(t){t.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);

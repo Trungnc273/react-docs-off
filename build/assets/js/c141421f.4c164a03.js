@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkreact_bootstrap_website=globalThis.webpackChunkreact_bootstrap_website||[]).push([[957],{40936(e){e.exports=JSON.parse('{"name":"docusaurus-theme-search-algolia","id":"default"}')}}]);

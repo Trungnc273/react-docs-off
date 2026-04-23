@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkreact_bootstrap_website=globalThis.webpackChunkreact_bootstrap_website||[]).push([[5895],{35895(e){e.exports=JSON.parse('{"name":"react-docgen-plugin","id":"default"}')}}]);
