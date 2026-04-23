@@ -1,0 +1,1 @@
+run command: npx serve
